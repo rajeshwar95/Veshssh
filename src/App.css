@@ -1,0 +1,27 @@
+.align-label {
+  display: inline-block;
+  width: 250px;
+  font-size: 22px;
+}
+
+.align-input{
+  font-size: 22px;
+  width: 300px;
+}
+
+.space{
+  margin: 15px;
+}
+
+.tax{
+  color: rgb(0, 0, 0);
+}
+.button{
+  background-color: rgb(215, 26, 26);
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 22px;
+  color: white;
+}
